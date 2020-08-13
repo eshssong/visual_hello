@@ -12,10 +12,11 @@ namespace HelloWorld
             Console.WriteLine("1. hotfix : first commit");
             Console.WriteLine("2. hotfix : second commit");
 
-            Console.WriteLine("Welcome to gitHub");
-            
+            Console.WriteLine("Welcome to gitHub");            
             Console.WriteLine("Local Repository");
 
+            Console.WriteLine("gitHub : full gitHub -> Local");
+            
             Console.ReadKey();
         }
     }
